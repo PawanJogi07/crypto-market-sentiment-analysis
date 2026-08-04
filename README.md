@@ -5,6 +5,11 @@
 
 ---
 
+# 🌐 Live Demo
+
+
+
+
 ## 📌 Project Overview
 
 Financial markets are heavily influenced by investor psychology. This project investigates how market sentiment affects trader profitability by combining:
