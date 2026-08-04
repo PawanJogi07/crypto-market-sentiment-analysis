@@ -150,13 +150,13 @@ Performed detailed analysis on:
 
 ## 6️⃣ Closed PnL Distribution
 
-![PnL](pnl_distribution.png)
+![PnL](pnl.png)
 
 ---
 
 ## 7️⃣ Correlation Heatmap
 
-![Heatmap](heatmap.png)
+![Heatmap](heatmap1.png)
 
 ---
 
