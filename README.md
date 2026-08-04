@@ -120,43 +120,43 @@ Performed detailed analysis on:
 
 ## 1️⃣ Market Sentiment Distribution
 
-![Market Sentiment](images/market_sentiment.png)
+![Market Sentiment](market_sentiment.png)
 
 ---
 
 ## 2️⃣ Average Profit by Sentiment
 
-![Profit](images/sentiment_profit.png)
+![Profit](sentiment_profit.png)
 
 ---
 
 ## 3️⃣ Coin-wise Profit
 
-![Coin Profit](images/coin_profit.png)
+![Coin Profit](coin_profit.png)
 
 ---
 
 ## 4️⃣ Trading Volume by Coin
 
-![Volume](images/trading_volume.png)
+![Volume](trading_volume.png)
 
 ---
 
 ## 5️⃣ Buy vs Sell Analysis
 
-![Buy Sell](images/buy_sell.png)
+![Buy Sell](buy_sell.png)
 
 ---
 
 ## 6️⃣ Closed PnL Distribution
 
-![PnL](images/pnl_distribution.png)
+![PnL](pnl_distribution.png)
 
 ---
 
 ## 7️⃣ Correlation Heatmap
 
-![Heatmap](images/heatmap.png)
+![Heatmap](heatmap.png)
 
 ---
 
